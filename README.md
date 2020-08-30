@@ -1,2 +1,0 @@
-# DICE-PLAY
-DICE
