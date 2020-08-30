@@ -1,0 +1,47 @@
+body{
+
+    background-color:#393E46;
+}
+.player{
+    width: 70%;
+    margin:auto;
+    text-align:center;
+}
+.player h1{
+    font-family: cursive;
+    
+    font-size:5rem;
+    color:rgb(62, 168, 62)
+}
+h3{
+    color: wheat;
+    font-size:2vw;
+}
+.p{
+    font-family: cursive;
+    
+    font-size:3rem;
+    color:rgb(255, 83, 83)
+}
+
+
+
+.dice{
+    display:inline-block;
+   margin:auto;
+   padding:10px;
+}
+.diceplay{
+    margin:auto;
+    width:50%;
+    text-align:center;
+}
+p{
+    font-size:2rem;
+    color:violet;
+    text-align:center;
+}
+img{
+
+    width:70%;
+}
